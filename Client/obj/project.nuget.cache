@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLDCpmH3tmsYPM9Nmjzg0H+vHbDyGH8WxETP7c9zTH19OvxM+9+1l8nUOf1rCkzubRn1HzOSdVGQJ1YE4c8oyA==",
+  "dgSpecHash": "6VH61M64vLLF5CyjMWFt7qaukh4//RiDrdUOLhp2fAmAnA525xLXPmv6yCZ+XMoo06pyrB+98x1B0nDKP3XP6A==",
   "success": true,
-  "projectFilePath": "C:\\All\\HubProxy\\SignalRClient\\Client.csproj",
+  "projectFilePath": "C:\\All\\HubProxy\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.0\\microsoft.aspnetcore.connections.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.0\\microsoft.aspnetcore.http.connections.client.3.1.0.nupkg.sha512",
@@ -22,11 +22,7 @@
     "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\Даниил\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

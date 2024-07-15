@@ -3,68 +3,87 @@
   "WorkspaceRootPath": "C:\\All\\HubProxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\hubproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\hubproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{594000D8-3379-4041-924C-B9869E6C96AC}|Client\\Client.csproj|c:\\all\\hubproxy\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{594000D8-3379-4041-924C-B9869E6C96AC}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|Server\\Server.csproj|c:\\all\\hubproxy\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|Server\\Server.csproj|c:\\all\\hubproxy\\server\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|Server\\Server.csproj|solutionrelative:server\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\stringcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\stringcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|c:\\all\\hubproxy\\sampleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDE4156-21FB-44AC-9BC2-D5694EF1C37A}|SampleServer\\Server.csproj|solutionrelative:sampleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\api\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\api\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\api\\hubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\argumentsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\argumentsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\argumentsformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\hubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\hubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\hubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\hubproxyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\hubproxyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\hubproxyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\ihubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\ihubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\ihubproxyinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594000D8-3379-4041-924C-B9869E6C96AC}|SignalRClient\\Client.csproj|c:\\all\\hubproxy\\signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594000D8-3379-4041-924C-B9869E6C96AC}|SignalRClient\\Client.csproj|solutionrelative:signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|c:\\all\\hubproxy\\hubproxy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|C:\\All\\HubProxy\\hubproxy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F439C2C8-0CA2-4661-A1E7-8088CBB8790D}|HubProxy\\HubProxy.csproj|solutionrelative:hubproxy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\hubproxyoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\sampleserver\\stringcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sampleserver\\stringcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\all\\hubproxy\\signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +93,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,8 +104,77 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HubProxy",
+              "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\HubProxy.csproj",
+              "RelativeDocumentMoniker": "HubProxy\\HubProxy.csproj",
+              "ToolTip": "C:\\All\\HubProxy\\HubProxy\\HubProxy.csproj",
+              "RelativeToolTip": "HubProxy\\HubProxy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T14:42:29.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\All\\HubProxy\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\All\\HubProxy\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T14:42:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAawAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-15T14:41:38.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server",
+              "DocumentMoniker": "C:\\All\\HubProxy\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\All\\HubProxy\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T14:41:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\All\\HubProxy\\Server\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\All\\HubProxy\\Server\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Server\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:41:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MessagesController.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\Controllers\\MessagesController.cs",
               "RelativeDocumentMoniker": "SampleServer\\Controllers\\MessagesController.cs",
@@ -99,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "SampleServer\\Controllers\\ClientsController.cs",
@@ -107,12 +195,11 @@
               "RelativeToolTip": "SampleServer\\Controllers\\ClientsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:55.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:55.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "ClientStore.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\ClientStore.cs",
               "RelativeDocumentMoniker": "SampleServer\\ClientStore.cs",
@@ -120,12 +207,11 @@
               "RelativeToolTip": "SampleServer\\ClientStore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:50.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:50.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\Program.cs",
               "RelativeDocumentMoniker": "SampleServer\\Program.cs",
@@ -133,12 +219,11 @@
               "RelativeToolTip": "SampleServer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:48.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:48.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "HubProxyOptions.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\HubProxyOptions.cs",
               "RelativeDocumentMoniker": "SampleServer\\HubProxyOptions.cs",
@@ -146,12 +231,11 @@
               "RelativeToolTip": "SampleServer\\HubProxyOptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:46.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:46.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\Startup.cs",
               "RelativeDocumentMoniker": "SampleServer\\Startup.cs",
@@ -159,12 +243,11 @@
               "RelativeToolTip": "SampleServer\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:30.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:30.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "StringContentExtensions.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SampleServer\\StringContentExtensions.cs",
               "RelativeDocumentMoniker": "SampleServer\\StringContentExtensions.cs",
@@ -172,12 +255,11 @@
               "RelativeToolTip": "SampleServer\\StringContentExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:28.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:28.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ArgumentsFormatter.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\ArgumentsFormatter.cs",
               "RelativeDocumentMoniker": "HubProxy\\ArgumentsFormatter.cs",
@@ -185,12 +267,11 @@
               "RelativeToolTip": "HubProxy\\ArgumentsFormatter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:36:16.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:36:16.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "HubProxyHandler.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\HubProxyHandler.cs",
               "RelativeDocumentMoniker": "HubProxy\\HubProxyHandler.cs",
@@ -198,12 +279,11 @@
               "RelativeToolTip": "HubProxy\\HubProxyHandler.cs",
               "ViewState": "AQIAAF0BAAAAAAAAAAAuwBkBAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:34:54.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:34:54.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "HubProxyInvoker.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\HubProxyInvoker.cs",
               "RelativeDocumentMoniker": "HubProxy\\HubProxyInvoker.cs",
@@ -211,12 +291,11 @@
               "RelativeToolTip": "HubProxy\\HubProxyInvoker.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:34:47.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:34:47.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "HubProxyOptions.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\HubProxyOptions.cs",
               "RelativeDocumentMoniker": "HubProxy\\HubProxyOptions.cs",
@@ -224,12 +303,11 @@
               "RelativeToolTip": "HubProxy\\HubProxyOptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:34:44.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:34:44.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IHubProxyInvoker.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\IHubProxyInvoker.cs",
               "RelativeDocumentMoniker": "HubProxy\\IHubProxyInvoker.cs",
@@ -237,12 +315,11 @@
               "RelativeToolTip": "HubProxy\\IHubProxyInvoker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:34:42.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:34:42.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\SignalRClient\\Program.cs",
               "RelativeDocumentMoniker": "SignalRClient\\Program.cs",
@@ -250,12 +327,11 @@
               "RelativeToolTip": "SignalRClient\\Program.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAYwBEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:33:38.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:33:38.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\appsettings.json",
               "RelativeDocumentMoniker": "HubProxy\\appsettings.json",
@@ -263,12 +339,11 @@
               "RelativeToolTip": "HubProxy\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T14:33:07.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:33:07.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HubProxy\\Properties\\launchSettings.json",
@@ -276,12 +351,11 @@
               "RelativeToolTip": "HubProxy\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T14:32:52.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:32:52.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "HubController.cs",
               "DocumentMoniker": "C:\\All\\HubProxy\\HubProxy\\Api\\HubController.cs",
               "RelativeDocumentMoniker": "HubProxy\\Api\\HubController.cs",
@@ -289,12 +363,7 @@
               "RelativeToolTip": "HubProxy\\Api\\HubController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:31:53.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-07-15T14:31:53.588Z"
             }
           ]
         }

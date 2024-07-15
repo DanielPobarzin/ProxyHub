@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+yemxmNYYhgXKLlQHm+ZrJ0KeNR44lN5F39BB2ZY6Lnln28fg3aLHUEj/w6G3vFE41okychS2cVZdcOpQGPKmA==",
+  "dgSpecHash": "Aqw73Y8XfTxSMUmQ5unbcPeKkHu9JhH0TPUcIWFk55CB27CD1NCWEGWrYYTQBuH+ayNBvRzK20gL9IFOqYwiQw==",
   "success": true,
   "projectFilePath": "C:\\All\\HubProxy\\Server\\Server.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

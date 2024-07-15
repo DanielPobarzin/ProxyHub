@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b66Cua/9RbPhvnFM7LriZu9qCGxs1xnbQCxLf+b9aodVLn4IAYuIAuyUTRV9//D679J/lUL/5ExeaIDrNZDagA==",
+  "dgSpecHash": "32V0DUJA3trpJGgzoEAiVeu9Kx+jCHDnWbXdHZlK29jglKshpmm4SB+xoy5nv5y/ceBjhIaIM1VsO6SNJ4Ba6w==",
   "success": true,
   "projectFilePath": "C:\\All\\HubProxy\\HubProxy\\HubProxy.csproj",
   "expectedPackageFiles": [
@@ -119,11 +119,7 @@
     "C:\\Users\\Даниил\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Даниил\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\Даниил\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
