@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLDCpmH3tmsYPM9Nmjzg0H+vHbDyGH8WxETP7c9zTH19OvxM+9+1l8nUOf1rCkzubRn1HzOSdVGQJ1YE4c8oyA==",
+  "success": true,
+  "projectFilePath": "C:\\All\\HubProxy\\SignalRClient\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.0\\microsoft.aspnetcore.connections.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.0\\microsoft.aspnetcore.http.connections.client.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.0\\microsoft.aspnetcore.http.connections.common.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.0\\microsoft.aspnetcore.http.features.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.0\\microsoft.aspnetcore.signalr.client.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.0\\microsoft.aspnetcore.signalr.client.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.0\\microsoft.aspnetcore.signalr.common.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.0\\microsoft.aspnetcore.signalr.protocols.json.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Даниил\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

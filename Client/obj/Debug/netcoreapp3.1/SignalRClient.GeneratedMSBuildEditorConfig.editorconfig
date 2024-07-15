@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SignalRClient
+build_property.ProjectDir = C:\All\HubProxy\SignalRClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

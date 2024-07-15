@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Server
+build_property.ProjectDir = C:\All\HubProxy\Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
